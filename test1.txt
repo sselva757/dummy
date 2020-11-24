@@ -1,2 +1,7 @@
 yes its me
+<<<<<<< HEAD
 Line3
+=======
+Line1
+Line2
+>>>>>>> 4584aa0edb3149412d506257fed16b6af0f921fa
